@@ -36,6 +36,7 @@
 **Описание**: Подарок на 8 марта, основная идея это 3д карточки девушек созданные с помощью шейдеров.
 Написание комплиментов девушкам парнями, поиск профилей девушек, динамическая страничка для каждой девушки
 админская панель и также профиль. 
+
 **Технологии**: 
 - Backend: Express.js, Zod (валидация данных), Drizzle ORM, PostgreSQL, Docker.
 - Frontend: React, React Router, ThreeJS Fiber, React Query, React Spring, Motion, React-hook-form, Zod и пр.
@@ -48,6 +49,7 @@
 в памяти приложения, но не в local storage (что большая дырка для xss), после ресета браузерной, либо в
 любой момент когда access token срок истекает, производится /refresh токена и клиент получает новый
 access token.
+
 **Технологии**: 
 - Frontend: Redux, RTK Query, React Router, Zod, React-hook-form
 **Особенности**: RTK Query.  
