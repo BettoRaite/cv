@@ -44,7 +44,7 @@
 **Ссылка**: [Jelly-m8](https://github.com/BettoRaite/jelly-m8)
 [Jelly-m8-api](https://github.com/BettoRaite/jelly-m8-api)
 
-### Jelly-m8
+### rtk-query-auth
 **Описание**: Auth flow посредством использования refresh/access token системы, access token хранится
 в памяти приложения, но не в local storage (что большая дырка для xss), после ресета браузерной, либо в
 любой момент когда access token срок истекает, производится /refresh токена и клиент получает новый
