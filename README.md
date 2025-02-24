@@ -36,9 +36,7 @@
 **Описание**: Подарок на 8 марта, основная идея это 3д карточки девушек созданные с помощью шейдеров.
 Написание комплиментов девушкам парнями, поиск профилей девушек, динамическая страничка для каждой девушки
 админская панель и также профиль. 
-<iframe src="[https://drive.google.com/file/d/YOUR_FILE_ID/preview](https://drive.google.com/drive/folders/1lAGC2vwCQJFQfGucA3bfKZ8e09sX3aNS)" width="640" height="480" allow="autoplay"></iframe>
-
-
+[Watch the video on Google Drive](https://drive.google.com/file/d/1lAGC2vwCQJFQfGucA3bfKZ8e09sX3aNS/view?usp=sharing)
 **Технологии**: 
 - Backend: Express.js, Zod (валидация данных), Drizzle ORM, PostgreSQL, Docker.
 - Frontend: React, React Router, ThreeJS Fiber, React Query, React Spring, Motion, React-hook-form, Zod и пр.
