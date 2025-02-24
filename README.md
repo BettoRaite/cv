@@ -32,19 +32,20 @@
 - Оптимизация производительности приложений и улучшение UX.
 
 ## Проекты
-### Jelly-m8
+### Jelly-m8 Full-stack
 **Описание**: Подарок на 8 марта, основная идея это 3д карточки девушек созданные с помощью шейдеров.
 Написание комплиментов девушкам парнями, поиск профилей девушек, динамическая страничка для каждой девушки
 админская панель и также профиль. 
-[Watch the video on Google Drive](https://drive.google.com/file/d/1lAGC2vwCQJFQfGucA3bfKZ8e09sX3aNS/view?usp=sharing)
+
 **Технологии**: 
 - Backend: Express.js, Zod (валидация данных), Drizzle ORM, PostgreSQL, Docker.
 - Frontend: React, React Router, ThreeJS Fiber, React Query, React Spring, Motion, React-hook-form, Zod и пр.
 **Особенности**: Auth, Шейдеры, Админская панель.  
-**Ссылка**: [Jelly-m8](https://github.com/BettoRaite/jelly-m8)
-[Jelly-m8-api](https://github.com/BettoRaite/jelly-m8-api)
+**Ссылка**:
+- [Jelly-m8](https://github.com/BettoRaite/jelly-m8)
+-[Jelly-m8-api](https://github.com/BettoRaite/jelly-m8-api)
 
-### rtk-query-auth
+### rtk-query-auth Full-stack
 **Описание**: Auth flow посредством использования refresh/access token системы, access token хранится
 в памяти приложения, но не в local storage (что большая дырка для xss), после ресета браузерной, либо в
 любой момент когда access token срок истекает, производится /refresh токена и клиент получает новый
@@ -66,7 +67,7 @@ access token.
 **Технологии**: React, TypeScript, localStorage.  
 **Ссылка**: [Sea of Kanji](https://sea-of-kanji.vercel.app/)
 
-### Advice Generator App
+### Advice Generator App Full-stack
 **Описание**: Многостраничное приложение для генерации советов с аутентификацией и хранением данных в Firestore.  
 **Технологии**: React, Firebase (аутентификация, Firestore), React Router DOM, Zod.  
 **Особенности**: Аутентификация, многостраничность.  
@@ -80,8 +81,4 @@ access token.
 ### Next.js Projects
 **Описание**: Пример работы с Next.js, включая разделение серверных и клиентских компонентов.  
 **Ссылка**: [Пример работы на FrontendMentor](https://www.frontendmentor.io/solutions/worker-news-landing-page-iowwiHZLBQ)
-
-### Three.js Project
-**Описание**: Проект с использованием Three.js для создания 3D-графики в веб-приложениях.  
-**Технологии**: React, Three.js.
 
