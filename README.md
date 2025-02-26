@@ -11,6 +11,7 @@
 - **Базы данных**: Drizzle ORM, PostgreSQL, Firestore
 - **Инструменты**: Zod (валидация данных), Docker, Git, Vite, React Hook Form
 - **Прочее**: Telegram Bots, Firebase (аутентификация, Firestore), Supabase, REST API, БЭМ, CSS
+- **Языки**: Английский(B2), Японский(A2)
 
 ## Опыт работы
 ### Frontend Developer (Стажёр)
