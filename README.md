@@ -22,6 +22,7 @@
 - Быстрая адаптация к проекту и демонстрация компетенции в React.  
 **Технологии**: TypeScript, Next.js, БЭМ, CSS.
 **Сорс**: есть локально, но показать я его не могу.
+
 https://career.habr.com/bettoraite
 
 ### Frontend/Fullstack Developer
