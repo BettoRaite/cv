@@ -25,7 +25,6 @@
 https://career.habr.com/bettoraite
 
 ### Frontend/Fullstack Developer
-**Фриланс / Удалённая работа**  
 Июнь 2022 – настоящее время
 - Разработка и поддержка веб-приложений с использованием React, Next.js и TypeScript.
 - Создание API на Express.js (например, [Kanjibreak API](https://rapidapi.com/BettoRaite/api/kanjibreakapi)).
@@ -42,9 +41,11 @@ https://career.habr.com/bettoraite
 **Технологии**: 
 - Backend: Express.js, Zod (валидация данных), Drizzle ORM, PostgreSQL, Docker.
 - Frontend: React, React Router, ThreeJS Fiber, React Query, React Spring, Motion, React-hook-form, Zod и пр.
+
 **Особенности**: Auth, Шейдеры, Админская панель.  
 **Ссылка**:
 - [Jelly-m8](https://github.com/BettoRaite/jelly-m8)
+
 -[Jelly-m8-api](https://github.com/BettoRaite/jelly-m8-api)
 
 ### rtk-query-auth Full-stack
@@ -67,12 +68,12 @@ access token.
 ### Sea of Kanji
 **Описание**: Приложение для изучения кандзи с использованием React и localStorage.  
 **Технологии**: React, TypeScript, localStorage.  
-**Ссылка**: [Sea of Kanji](https://sea-of-kanji.vercel.app/)
+**Ссылка**: [Sea of Kanji](https://sea-of-kanji.vercel.app/) 
 
 ### Advice Generator App Full-stack
 **Описание**: Многостраничное приложение для генерации советов с аутентификацией и хранением данных в Firestore.  
 **Технологии**: React, Firebase (аутентификация, Firestore), React Router DOM, Zod.  
-**Особенности**: Аутентификация, многостраничность.  
+**Особенности**: Аутентификация , многостраничность.  
 **Ссылка**: [Advice Generator App](https://advice-generator-app-iota-ten.vercel.app/)
 
 ### Todo App
