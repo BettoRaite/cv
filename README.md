@@ -1,8 +1,6 @@
 # BettoRaite
 **Frontend/Fullstack Developer** (React, Next.js, TypeScript, Three.js)  
-📧 bettoraite@gmail.com | 💼 [GitHub](https://github.com/BettoRaite) | 🌐 [FrontendMentor](https://www.frontendmentor.io/profile/BettoRaite)
-Телеграм: @BettoRaite 
-[career.habr](https://career.habr.com/bettoraite)
+📧 bettoraite@gmail.com | 💼 [GitHub](https://github.com/BettoRaite) | 🌐 [FrontendMentor](https://www.frontendmentor.io/profile/BettoRaite)|Телеграм: @BettoRaite |Мой хабр:[career.habr](https://career.habr.com/bettoraite)
 ## О себе
 Фуллстек-разработчик с опытом 1.5 года, специализируюсь на создании современных веб-приложений с использованием React, Next.js, React Router, TypeScript и связанных технологий. Имею опыт разработки API(rest, auth) на Express.js, работы с базами данных (PostgreSQL, Drizzle ORM) и создания пользовательских интерфейсов. Свободно владею английским языком, вся документация и проекты ведутся на английском.
 
@@ -23,6 +21,8 @@
 - Оптимизация и рефакторинг кода, технический анализ кода других разработчиков.
 - Быстрая адаптация к проекту и демонстрация компетенции в React.  
 **Технологии**: TypeScript, Next.js, БЭМ, CSS.
+**Сорс**: есть локально, но показать я его не могу.
+https://career.habr.com/bettoraite
 
 ### Frontend/Fullstack Developer
 **Фриланс / Удалённая работа**  
