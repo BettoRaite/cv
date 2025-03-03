@@ -1,6 +1,7 @@
 # BettoRaite
 **Frontend/Fullstack Developer** (React, Next.js, TypeScript, Three.js)  
-📧 bettoraite@gmail.com | 💼 [GitHub](https://github.com/BettoRaite) | 🌐 [FrontendMentor](https://www.frontendmentor.io/profile/BettoRaite)|[Телеграм](@BettoRaite)|[Мой хабр](https://career.habr.com/bettoraite)
+📧 bettoraite@gmail.com | 💼 [GitHub](https://github.com/BettoRaite) | 🌐 [FrontendMentor](https://www.frontendmentor.io/profile/BettoRaite)|[Телеграм](https://t.me/bettoraite
+)|[Мой хабр](https://career.habr.com/bettoraite)
 
 # ВНИМАНИЕ СОРС КО ВСЕМ ПРОЕКТАМ ДОСТУПЕН У МЕНЯ В ПРОФИЛЕ
 
@@ -62,6 +63,14 @@ access token.
 - Frontend: Redux, RTK Query, React Router, Zod, React-hook-form
 **Особенности**: RTK Query.  
 **Ссылка**: [rtk-query-experimental](https://github.com/BettoRaite/rtk-query-auth/tree/rtx-query-experimental)
+(нужны два сервера auth/resource, все эндпоинты описаны в описании)
+
+### Advice Generator App Full-stack
+**Описание**: Многостраничное приложение для генерации советов с аутентификацией и хранением данных в Firestore.  
+**Технологии**: React, Firebase (аутентификация, Firestore), React Router DOM, Zod.  
+**Особенности**: Аутентификация , многостраничность.  
+**Ссылка**: [Advice Generator App](https://advice-generator-app-iota-ten.vercel.app/)
+
 
 ### Kanjibreak API
 **Описание**: API для работы с кандзи (японские и китайские иероглифы).  
@@ -73,12 +82,6 @@ access token.
 **Описание**: Приложение для изучения кандзи с использованием React и localStorage.  
 **Технологии**: React, TypeScript, localStorage.  
 **Ссылка**: [Sea of Kanji](https://sea-of-kanji.vercel.app/) (сломан, нужно восстанавливать сервер)
-
-### Advice Generator App Full-stack
-**Описание**: Многостраничное приложение для генерации советов с аутентификацией и хранением данных в Firestore.  
-**Технологии**: React, Firebase (аутентификация, Firestore), React Router DOM, Zod.  
-**Особенности**: Аутентификация , многостраничность.  
-**Ссылка**: [Advice Generator App](https://advice-generator-app-iota-ten.vercel.app/)
 
 ### Todo App
 **Описание**: Простое приложение для управления задачами.  
