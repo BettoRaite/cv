@@ -54,7 +54,7 @@ https://career.habr.com/bettoraite
 
 - [Jelly-m8-api](https://github.com/BettoRaite/jelly-m8-api)
 
-### rtk-query-auth Full-stack
+## rtk-query-auth Full-stack
 **Описание**: Auth flow посредством использования refresh/access token системы, access token хранится
 в памяти приложения, но не в local storage (что большая дырка для xss), после ресета браузерной, либо в
 любой момент когда access token срок истекает, производится /refresh токена и клиент получает новый
@@ -72,7 +72,7 @@ access token.
 **Особенности**: Аутентификация , многостраничность.  
 **Ссылка**: [Advice Generator App](https://advice-generator-app-iota-ten.vercel.app/)
 
-## HiAnimeView
+### HiAnimeView
 **Описание**: Простой wrapper вокруг https://jikan.moe/, можно искать рандомное аниме(иногда почему-то +18), и также откатываться и пересматривать
 прошлые аниме.
 **Технологии**: Redux(Тема сайта), NextJS, React Query, Tailwind
