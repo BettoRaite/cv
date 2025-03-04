@@ -48,7 +48,7 @@ https://career.habr.com/bettoraite
 - Backend: Express.js, Zod (валидация данных), Drizzle ORM, PostgreSQL, Docker.
 - Frontend: React, React Router, ThreeJS Fiber, React Query, React Spring, Motion, React-hook-form, Zod и пр.
 
-**Особенности**: Auth, Шейдеры, Админская панель.  
+**Фичи**: Админская панель, профили(CRUD), написание комлиментов публичных/приватных(CRUD), анимации,  
 **Ссылка**:
 - [Jelly-m8](https://github.com/BettoRaite/jelly-m8)
 
