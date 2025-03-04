@@ -52,7 +52,7 @@ https://career.habr.com/bettoraite
 **Ссылка**:
 - [Jelly-m8](https://github.com/BettoRaite/jelly-m8)
 
--[Jelly-m8-api](https://github.com/BettoRaite/jelly-m8-api)
+- [Jelly-m8-api](https://github.com/BettoRaite/jelly-m8-api)
 
 ### rtk-query-auth Full-stack
 **Описание**: Auth flow посредством использования refresh/access token системы, access token хранится
