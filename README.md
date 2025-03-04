@@ -89,7 +89,7 @@ access token.
 **Технологии**: React, Tailwind CSS.  
 **Ссылка**: [Todo App](https://github.com/BettoRaite/todoapp)
 
-### Next.js Projects
+### Челленжи + Next.js
 **Описание**: Пример работы с Next.js, включая разделение серверных и клиентских компонентов.  
 **Ссылка**: [Пример работы на FrontendMentor](https://www.frontendmentor.io/solutions/worker-news-landing-page-iowwiHZLBQ)
 
