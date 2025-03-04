@@ -39,7 +39,7 @@ https://career.habr.com/bettoraite
 - Оптимизация производительности приложений и улучшение UX.
 
 ## Проекты
-### Jelly-m8 (Fullstack)
+## Jelly-m8 (Fullstack)
 **Описание**: Подарок на 8 марта, основная идея это 3д карточки девушек созданные с помощью шейдеров.
 Написание комплиментов девушкам парнями, поиск профилей девушек, динамическая страничка для каждой девушки
 админская панель и также профиль. 
@@ -54,7 +54,7 @@ https://career.habr.com/bettoraite
 
 - [Jelly-m8-api](https://github.com/BettoRaite/jelly-m8-api)
 
-## rtk-query-auth (Fullstack)
+### rtk-query-auth (Fullstack)
 **Описание**: Auth flow посредством использования refresh/access token системы, access token хранится
 в памяти приложения, но не в local storage (что большая дырка для xss), после ресета браузерной, либо в
 любой момент когда access token срок истекает, производится /refresh токена и клиент получает новый
