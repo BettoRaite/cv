@@ -90,6 +90,6 @@ access token.
 **Ссылка**: [Todo App](https://github.com/BettoRaite/todoapp)
 
 ### Челленжи + Next.js
-**Описание**: Пример работы с Next.js, включая разделение серверных и клиентских компонентов.  
+**Описание**: Все мои сделанные челленжи по верстке и пример работы с Next.js.  
 **Ссылка**: [Пример работы на FrontendMentor](https://www.frontendmentor.io/solutions/worker-news-landing-page-iowwiHZLBQ)
 
