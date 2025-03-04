@@ -1,4 +1,5 @@
-3# BettoRaite
+# BettoRaite
+
 **Frontend/Fullstack Developer** (React, Next.js, TypeScript, Three.js)  
 📧 bettoraite@gmail.com | 💼 [GitHub](https://github.com/BettoRaite) | 🌐 [FrontendMentor](https://www.frontendmentor.io/profile/BettoRaite)|[Телеграм](https://t.me/bettoraite
 )|[Мой хабр](https://career.habr.com/bettoraite)
