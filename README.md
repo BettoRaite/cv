@@ -68,11 +68,17 @@ access token.
 
 ### Advice Generator App Full-stack
 **Описание**: Многостраничное приложение для генерации советов с аутентификацией и хранением данных в Firestore.  
-**Технологии**: React, Firebase (аутентификация, Firestore), React Router DOM, Zod.  
+**Технологии**: React, Firebase (аутентификация, Firestore), React Router DOM, Zod.
 **Особенности**: Аутентификация , многостраничность.  
 **Ссылка**: [Advice Generator App](https://advice-generator-app-iota-ten.vercel.app/)
 
-
+## HiAnimeView
+**Описание**: Простой wrapper вокруг https://jikan.moe/, можно искать рандомное аниме(иногда почему-то +18), и также откатываться и пересматривать
+прошлые аниме.
+**Технологии**: Redux(Тема сайта), NextJS, React Query, Tailwind
+**Ссылка**: [Kanjibreak API](https://hianimeview.vercel.app)
+Есть сорс, только на vercel(нет его нельзя скачать только скопировать по одному файлику), так как при переустановке linux
+весь локальный проект ушел 
 ### Kanjibreak API
 **Описание**: API для работы с кандзи (японские и китайские иероглифы).  
 **Технологии**: Express.js, Zod (валидация данных), Drizzle ORM, PostgreSQL.  
